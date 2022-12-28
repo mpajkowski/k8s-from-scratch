@@ -1,0 +1,19 @@
+nodes:
+  - name: master1
+    ip_end: 41
+    disk: 10G
+  - name: master2
+    ip_end: 42
+    disk: 10G
+  - name: master3
+    ip_end: 43
+    disk: 10G
+  - name: worker1
+    ip_end: 61
+    disk: 20G
+  - name: worker2
+    ip_end: 62
+    disk: 20G
+  - name: worker3
+    ip_end: 63
+    disk: 20G
